@@ -1,0 +1,106 @@
+header {
+	min-height: 108px;
+	border: 1px solid black;
+}
+
+#navbar-brand {
+	padding: 20px;
+}
+
+.blackborder {
+	border: 1px solid black;
+}
+
+.sidebar {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.footer {
+	padding: 10px;
+	background: #094670;
+	margin-bottom: 0px !important;
+}
+
+#footer-row {
+	flex: 1;
+	align-items: center;
+}
+
+#footer-text {
+	color: white;
+}
+
+nav {
+	width: 100%;
+}
+
+i.fa {
+	padding: 5px;
+	color: white;
+}
+
+.subfooter-social ul {
+	list-style: none;
+}
+
+.subfooter-social ul li {
+	display: inline-block;
+	padding: 5px;
+}
+
+.rel-img {
+	width: 100%;
+}
+
+main {
+	margin: auto;
+}
+
+.btn {
+	margin-top: 10px !important;
+}
+
+.btn-info {
+	background-color: #39cece !important;
+	border-color: #39cece !important;
+	color: black !important;
+}
+
+#navbarSupportedContent {
+	justify-content: flex-end;
+	padding: 30px;
+}
+
+form input::placeholder {
+	font-style: italic !important;
+}
+
+.enrol-form {
+	margin-top: 10px;
+	background-color: navy !important;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 40px;
+	margin-bottom: 5px;
+	padding-right: 10px;
+}
+
+.no-margin-bottom {
+	margin-bottom: 0px !important;
+}
+
+.btn.nohover:hover,
+.btn.nohover:active {
+	background-color: #007bff !important;
+	border-color: #007bff !important;
+	cursor:default !important;
+}
+
+.video-item {
+	display: block;
+}
+
+.center {
+	text-align: center;
+}
